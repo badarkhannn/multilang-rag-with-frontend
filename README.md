@@ -46,7 +46,7 @@ To start the FastAPI backend server:
 
 ```bash
 cd backend
-uvicorn backend:app --reload
+uvicorn server:app --reload
 ```
 
 This will start the server at `http://127.0.0.1:8000`.
